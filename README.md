@@ -1,1 +1,9 @@
-# project-template
+# SeedTransNet: A directional translational network revealing regulatory patterns during seed maturation and germination 
+
+**Authors: Bing Bai, Bastian Schiffthaler, Sjors van der Horst, Sara Lea Häggström. Thomas Dobrenel, Leo Willems, Leo Alexander Vergara Robles, Jacob Karström, Niklas Mähler, Nicolas Delhomme, Leónie Bentsink, Johannes Hanson**
+
+## Abstract
+Seed maturation is the developmental process that prepares the embryo for the desiccated waiting period before germination. It is associated with a series of physiological changes leading to the establishment of seed dormancy, seed longevity and desiccation tolerance. We studied translational changes during seed maturation and observed a gradual reduction in global translation during seed maturation. Transcriptome and translatome profiling revealed specific reduction in the translation of thousands of genes. By including previously published data on germination and seedling establishment, a regulatory network based on polysome occupancy data was constructed: SeedTransNet. Network analysis predicted translational regulatory pathways involving hundreds of genes with distinct functions. The network identified specific transcript sequence features suggesting separate translational regulatory circuits, of which one was confirmed in vivo. The network revealed several seed maturation associated genes as central nodes, and this was confirmed by specific seed phenotypes of the respective mutants. One of the regulators identified, an AWPM19 family protein, PM19-Like1 (PM19L1), was shown to regulate seed dormancy and longevity. This putative RNA binding protein (RBP) also affects the translational regulation of its target mRNA, as identified by SeedTransNet. Our data show the usefulness of SeedTransNet in identifying regulatory pathways during seed phase transitions.
+
+## Reference
+[DOI]()
